@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "description": "An amazing Product 1",
+    "price": 100,
+    "thumbnail": "nd",
+    "code": "P001",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "An amazing Product 2",
+    "price": 200,
+    "thumbnail": "nd",
+    "code": "P002",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "description": "An amazing Product 3",
+    "price": 300,
+    "thumbnail": "nd",
+    "code": "P003",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "description": "An amazing Product 4",
+    "price": 400,
+    "thumbnail": "nd",
+    "code": "P004",
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "description": "An amazing Product 5",
+    "price": 500,
+    "thumbnail": "nd",
+    "code": "P005",
+    "stock": 50
+  }
+]
